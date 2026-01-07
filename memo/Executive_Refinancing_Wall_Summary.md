@@ -49,8 +49,8 @@ The 2025-2027 refinancing cycle will act as a structural stress test for real es
 
 ## Data Sources:
 
-Boston Properties
-Simon Property Group 
-Equity Residential 
-Prologis 
+Boston Properties: http://ir.bostonproperties.com/static-files/5c801681-0837-4129-84c8-0c02b82ba7de
+Simon Property Group: https://investors.simon.com/static-files/b025d6ef-b741-4716-bb44-3c6502ef98f0 
+Equity Residential: https://s1.q4cdn.com/843629197/files/doc_financials/2022/ar/cec4ae61-048b-4966-bed0-e71a19da34c3.pdf 
+Prologis: https://ir.prologis.com/financials/annual-reports/content/0001193125-25-067087/0001193125-25-067087.pdf 
 
